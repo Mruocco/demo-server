@@ -4,7 +4,7 @@
   "description": "simple test server",
   "main": "index.js",
   "scripts": {
-    "install": "npm install json-server"
+    "preinstall": "npm install -g json-server"
   },
   "author": "",
   "license": "ISC",
