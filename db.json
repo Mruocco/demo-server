@@ -5,5 +5,40 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "reports": [
+      {"id": "04f6e878-ccb0-45e8-a7af-3e04e247a0c4",
+        "Agent": {
+          "UserId": "8ed71b83-b13e-445b-841d-4c45911622bc",
+          "Name": "Ellen Smith",
+          "CompanyName": "East Lake Real Estate Company",
+          "EmailAddress": "ellen@servingyourtown.com",
+          "PhoneNumber": "(425)-555-5555",
+          "ImageUrl": "https://www.fakepersongenerator.com/Face/female/female20141023736168274.jpg",
+          "Address": {
+            "Street": "3633 136TH PL SE, STE 30",
+            "City": "Bellevue",
+            "State": "WA",
+            "Zip": "98006"
+          }
+        },
+        "User": {
+          "Name": "Matt"
+        },
+        "Property": {
+          "Address": {
+            "Street": "24118 SE 196th St",
+            "City": "Maple Valley",
+            "State": "WA",
+            "Zip": "98038"
+          },
+          "Valuation": [697000, 720000, 718000, 721000, 741000, 752000]
+        }
+      }
+  ]
+
+
+
+
+
 }
